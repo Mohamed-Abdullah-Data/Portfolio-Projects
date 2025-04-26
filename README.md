@@ -17,7 +17,7 @@ This project analyzes bike sharing trends in London using time-series data. The 
 - Handled missing values, corrected data types, and formatted the time series data for consistency.
 - Exported a clean version of the dataset for analysis and visualization.
 
-📎 **[Download Cleaned Python Script](https://github.com/Mohamed-Abdullah-Data/Portfolio-Projects/raw/main/DataCleaningLondonBikes.py)**
+📎 **[Download Cleaned Python Script](https://github.com/Mohamed-Abdullah-Data/Portfolio-Projects/blob/main/DataCleaningLondonBikesCode.py)**
 
 ---
 
@@ -29,7 +29,7 @@ An interactive dashboard was created in **Tableau** with:
 - **Dynamic parameters** for hour and season exploration
 - **Calculated fields** to analyze patterns across weather conditions
 
-🚀 Explore the dashboard: https://public.tableau.com/app/profile/mohamed.abdullah4356/viz/LondonBikeSharingTableauDashboard/Dashboard1
+🚀 Explore the dashboard: *[https://public.tableau.com/app/profile/mohamed.abdullah4356/viz/LondonBikeSharingTableauDashboard/Dashboard1]*
 
 ---
 
