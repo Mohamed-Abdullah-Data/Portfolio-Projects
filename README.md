@@ -29,7 +29,7 @@ An interactive dashboard was created in **Tableau** with:
 - **Dynamic parameters** for hour and season exploration
 - **Calculated fields** to analyze patterns across weather conditions
 
-🚀 Explore the dashboard: *[https://public.tableau.com/app/profile/mohamed.abdullah4356/viz/LondonBikeSharingTableauDashboard/Dashboard1]*
+🚀 **[View the Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/mohamed.abdullah4356/viz/LondonBikeSharingTableauDashboard/Dashboard1)**
 
 ---
 
